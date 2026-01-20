@@ -1,2 +1,13 @@
 # Gamified-Learning-Platform-CSE-518
 Gamified Learning Platform for Rural Education
+
+
+## Project Review 1
+This repository contains the PPT for the first project review.
+
+## Team Type
+CSE – Group – Software Project
+
+## Contents
+- Project Review 1 PPT
+
