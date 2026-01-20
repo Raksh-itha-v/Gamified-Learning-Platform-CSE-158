@@ -6,7 +6,7 @@ Gamified Learning Platform for Rural Education
 This repository contains the PPT for the first project review.
 
 ## Team Type
-CSE – Group – Software Project
+CSE –158  Group – Software Project
 
 ## Contents
 - Project Review 1 PPT
